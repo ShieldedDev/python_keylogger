@@ -52,7 +52,7 @@ This repository contains different types of keyloggers developed using Python wi
   ```bash
     git clone https://github.com/ShieldedDev/python_keylogger.git
   ```
-    cd keylogger-collection
+    cd keylogger_collection
 
 **2. Installing Dependencies:**
 ```
